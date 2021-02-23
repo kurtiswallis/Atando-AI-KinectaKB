@@ -3,6 +3,13 @@ body {
 	background-repeat: no-repeat;
    	background-size: 99%;
 	}
+@media (max-width:575.98px) { 
+    #comm100-float-button-2 > div { 
+        bottom: 10% !important;
+	left: 40% !important;
+    }
+}
+
 .KB-page{
     width:80%;
     margin:0 auto;
